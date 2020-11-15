@@ -315,7 +315,7 @@ U 1 1 5FB61946
 P 1100 6950
 F 0 "J1" H 1018 6258 50  0000 C CNN
 F 1 "DB9_Male" H 1018 6349 50  0000 C CNN
-F 2 "Connector_Dsub:DSUB-9_Male_EdgeMount_P2.77mm" H 1100 6950 50  0001 C CNN
+F 2 "Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm" H 1100 6950 50  0001 C CNN
 F 3 " ~" H 1100 6950 50  0001 C CNN
 	1    1100 6950
 	-1   0    0    1   
@@ -518,7 +518,7 @@ U 1 1 5FBB0490
 P 10400 5650
 F 0 "J2" H 10580 5696 50  0000 L CNN
 F 1 "DB9_Female" H 10580 5605 50  0000 L CNN
-F 2 "Connector_Dsub:DSUB-9_Female_EdgeMount_P2.77mm" H 10400 5650 50  0001 C CNN
+F 2 "Connector_Dsub:DSUB-9_Female_Horizontal_P2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm" H 10400 5650 50  0001 C CNN
 F 3 " ~" H 10400 5650 50  0001 C CNN
 	1    10400 5650
 	1    0    0    -1  
